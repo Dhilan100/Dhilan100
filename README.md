@@ -13,7 +13,7 @@
 * Gaming nerd (LoL, Pokemon, Bloodborne, Maplestory, GunZ and Halo 1-4)
 * A retro console enthusist, can also mod PSPs and 3DSs
 * Anime fan since the early days of Bleach and Death Note
-* Casual Audiobook fan, book for this month: the Silmarillion by JRR Tolkien and narrated by Andy Serkis link
+* Casual Audible listener, book for this month: The Silmarillion by JRR Tolkien and narrated by Andy Serkis
 
 ## Languages and Tools I can use:
 - <img height="30" width="30" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel Icon"/> **Excel**
@@ -30,10 +30,10 @@
 ### Lets Connect!
 <p>
   <a href="https://www.linkedin.com/in/dhilan-thiyagarajah-4469a612b/"><img height="30" width="30" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="Linkedin Icon" width="21px"></a>
-  <a href=https://stackoverflow.com/users/25351651/dhilan-thiyagarajah><img height="30" width="30" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=13955&format=png&color=000000" alt="Stack-Overflow Icon"></a>
+  <a href="https://stackoverflow.com/users/25352043/dhilan-thiyagarajah"><img height="30" width="30" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=13955&format=png&color=000000" alt="Stack-Overflow Icon"></a>
   <a href="mailto:dhilan100+github@gmail.com"><img height="30" width="30" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=13922&format=png&color=000000" alt="Email Icon" /> </a>
   <a href="https://public.tableau.com/app/profile/dhilan.thiyagarajah/" > <img height="30" width="30" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau Icon"/> </a>
-  <a href="https://github.com/ElizabethM91"><img height="30" width="30" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" alt="GitHub Icon"/></a>
+  <a href="https://github.com/Dhilan100"><img height="30" width="30" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" alt="GitHub Icon"/></a>
 </p>
 
 ## If the Joker asks "Why so serious?" you respond with:
