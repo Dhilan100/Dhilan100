@@ -8,7 +8,7 @@
 
 # About Me
 
-* I am a data analyst in progress, but used to be a Virology/Covid Associate Practitioner.
+* I am a data analyst who is constantly updating his skills, but used to be a Virology/Covid Associate Practitioner.
 * Data is beautiful and love how we can bend it to our will.
 * Gaming nerd (LoL, Pokemon, Bloodborne, Maplestory, GunZ and Halo 1-4)
 * A retro console enthusist, can also mod PSPs and 3DSs
