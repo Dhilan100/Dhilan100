@@ -17,7 +17,7 @@
 
 ## Languages and Tools I can use:
 - <img height="30" width="30" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel Icon"/> **Excel**
-- <img height="30" width="30" style="padding: 5px;" src="https://cdn.simpleicons.org/powerbi" alt="PowerBi Icon"/> **Power BI**
+- <img height="30" width="30" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" alt="PowerBi Icon"/> **Power BI**
 - <img height="30" width="30" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau Icon"/> **Tableau** 
 - <img height="30" width="30" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" alt="SQL Icon"/> **transact-SQL**
 - <img height="30" width="30" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" alt="Azure Icon"/> **Azure Databases**
