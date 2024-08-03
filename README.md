@@ -8,12 +8,12 @@
 
 # About Me
 
-* I am a data analyst who is constantly updating his skills, but used to be a Virology/Covid Associate Practitioner.
-* Data is beautiful and love how we can bend it to our will.
-* Gaming nerd (LoL, Pokemon, Bloodborne, Maplestory, GunZ and Halo 1-4)
-* A retro console enthusist, can also mod PSPs and 3DSs
-* Anime fan since the early days of Bleach and Death Note
-* Casual Audible listener, book for this month: The Silmarillion by JRR Tolkien and narrated by Andy Serkis
+* I am a data analyst with a Biochemistry background, who is constantly updating his skills to stand out from the crowd.
+* Data is beautiful and I love how we can bend it to our will.
+* A true gaming nerd (LoL, Pokemon, Bloodborne, Maplestory, GunZ and Halo 1-4)
+* A retro console enthusist, can modify and update PSPs and 3DSs, want to expand to PS2 and PS1 at some point.
+* Anime fan since the early days of Bleach, Naruto, One Piece and Death Note. 
+* Casual Audible listener, book that I am listening to currently: The Silmarillion by JRR Tolkien and narrated by Andy Serkis
 
 ## Languages and Tools I can use:
 - <img height="30" width="30" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel Icon"/> **Excel**
