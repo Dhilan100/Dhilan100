@@ -26,7 +26,12 @@
 - <img height="30" width="30" style="padding: 5px;" src="https://cdn.simpleicons.org/R" alt="R Icon"/> **R/RStudio**
 - <img height="30" width="30" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" alt="Jupyter Icon"/> **Jupyter Lab**
 - <img height="30" width="30" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code Icon"/> **VS Code**
-  
+
+# Currently working on
+
+- Recently discovered a way to revive my full bricked psp 3000 which 12 years ago was thought impossive by the modding community. The bricking occured due to tampering of the bios files. The new method is to create a form of pandora battery called
+  BaryonSweeper battery, Despertar del Cementerio v10 magicstick and pysweeper. This should allow me to breathe life to a Dissidia Duo Decim Collector's edition PSP (kinda expensive now) and bring back potential retro repair work for psp 3000.
+   
 ### Lets Connect!
 <p>
   <a href="https://www.linkedin.com/in/dhilan-thiyagarajah-4469a612b/"><img height="30" width="30" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="Linkedin Icon" width="21px"></a>
