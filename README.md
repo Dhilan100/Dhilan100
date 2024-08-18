@@ -29,7 +29,7 @@
 
 # Currently working on
 
-- Recently discovered a way to revive my full bricked psp 3000 which 12 years ago was thought impossive by the modding community. The bricking occured due to tampering of the bios files. The new method is to create a form of pandora battery called
+- Recently discovered a way to revive my full bricked psp 3000 which 12 years ago was thought impossive by the modding community. The bricking occured due to tampering of the flash nand. The new method is to create a form of pandora battery called
   BaryonSweeper battery, Despertar del Cementerio v10 magicstick and pysweeper. This should allow me to breathe life to a Dissidia Duo Decim Collector's edition PSP (kinda expensive now) and bring back potential retro repair work for psp 3000.
    
 ### Lets Connect!
