@@ -4,7 +4,7 @@
 ### I am a data analyst and I can summon data 
 ![Matrix](https://media.giphy.com/media/Omjm2ty3efv06gFJyG/giphy.gif)
 
-<sub>Disclaimer: the summoning of data can only be done using analytical tools and not space-time ninjustu, as currently it is not possible to use chakra.</sub>
+<sub>Disclaimer: the summoning of data can only be done using analytical tools and not space-time ninjustu, as currently it isn't possible without insane chakra control (Naruto reference 😅).</sub>
 
 # About Me
 
@@ -29,8 +29,8 @@
 
 # Currently working on
 
-- Recently discovered a way to revive my full bricked psp 3000, which 12 years ago was thought impossive by the modding community. Bricking occured due to flash nand corruption. The new method is to create a form of pandora battery called a
-  BaryonSweeper, Despertar del Cementerio v10 magicstick to access the custom firware files and pysweeper to execute the safe mode on the psp. This can bring back potential retro repair work for psp 3000s instead of being used as paperweight.
+- Recently discovered a way to revive my full bricked PSP 3000, which is huge as for the past 12 years it was thought impossive by the modding community. The bricking occured due to flashing nand 0 into corruption. The new method is to create a form of Pandora battery called a BaryonSweeper, Despertar del Cementerio v10 MMS Magicstick to flash the custom firware files and overwrite the flash memory and Pysweeper (using VS Code and PowerShell) to execute the safe recovery mode on the PSP. This can bring back retro repair work
+potentially for PSP 3000s and PSP GOs instead of being used as an expensive paperweight.
    
 ### Lets Connect!
 <p>
