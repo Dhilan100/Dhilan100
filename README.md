@@ -4,15 +4,15 @@
 ### I am a data analyst and I can summon data 
 ![Matrix](https://media.giphy.com/media/Omjm2ty3efv06gFJyG/giphy.gif)
 
-<sub>Disclaimer: the summoning of data can only be done using analytical tools and not space-time ninjustu, as currently it isn't possible without insane chakra control (Naruto reference 😅).</sub>
+<sub>Disclaimer: the summoning of data can only be done using analytical tools and not space-time ninjustu, as currently it isn't possible without insane chakra control.</sub>
 
 # About Me
 
 * I am a data analyst with a Biochemistry background, who is constantly updating his skills to stand out from the crowd.
-* Data is beautiful and I love how we can bend it to our will.
-* A true gaming nerd (LoL, Pokemon, Bloodborne, Maplestory, GunZ and Halo 1-4)
-* A retro console enthusist, can modify and update PSPs and 3DSs, want to expand to PS2 and PS1 at some point.
-* Anime fan since the early days of Bleach, Naruto, One Piece and Death Note. 
+* I am a firm believer in the mantra "Data is beautiful" and I love how we have the tools to bend it to our will (Avatar the Last Data Bender?).
+* A true gaming nerd (LoL, Pokemon, Bloodborne, Maplestory, GunZ and Halo 1-4), using mods, theorycrafting and breaking the game using exploits for speedrunning and glitching.
+* A retro console enthusist (90s kid), have a passion for modifying and updating PSPs and 3DSs to liberate unsupported hardware end users, want to expand to PS2 and PS1 at some point.
+* Anime fan since the early days of Bleach, Naruto, One Piece and Death Note, imagine all the thoeires discussions I have.
 * Casual Audible listener, book that I am listening to currently: The Silmarillion by JRR Tolkien and narrated by Andy Serkis
 
 ## Languages and Tools I can use:
