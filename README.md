@@ -9,7 +9,7 @@
 # About Me
 
 * I am a data analyst with a Biochemistry background, who is constantly updating his skills to stand out from the crowd.
-* I am a firm believer in the mantra "Data is beautiful" and I love how we have the tools to bend it to our will (Avatar the Last Data Bender?).
+* I am a firm believer in the mantra "Data is beautiful" and I love how we have the tools to bend it to our will.
 * A true gaming nerd (LoL, Pokemon, Bloodborne, Maplestory, GunZ and Halo 1-4), using mods, theorycrafting and breaking the game using exploits for speedrunning and glitching.
 * A retro console enthusist (90s kid), have a passion for modifying and updating PSPs and 3DSs to liberate unsupported hardware end users, want to expand to PS2 and PS1 at some point.
 * Anime fan since the early days of Bleach, Naruto, One Piece and Death Note, imagine all the thoeires discussions I have.
